@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        git "https://github.com/Nagaraju118/Jenkins_task"
+        git "https://github.com/Ruchita68/mar2.git"
       }
     }
     stage("Run")
